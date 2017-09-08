@@ -11,6 +11,9 @@ Links
 SuperChassis 216BE1C-R920LPB
 http://www.supermicro.com/products/chassis/2u/216/SC216BE1C-R920LPB
 
+Supermicro
+https://www.supermicro.com/index.cfm
+
 SuperMicro 2U CSE-216 Barebone Server: Tyan S7012, 24x 2.5" Trays, 2x PSU, Rails
 price: US $275.00
 This one has rails and looks pretty good.
@@ -24,6 +27,14 @@ price: $149.00
 Shipping to 99518 is out of site at $240.88 via FedEx
 7x available (August 19, 2017)
 http://www.ebay.com/itm/SuperMicro-2U-CSE-216-RAID-ARRAY-SATA-Server-Case-Chassis-24x-2-5-Trays-2X-PSU/202001931006?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIM.MBE%26ao%3D2%26asc%3D41375%26meid%3D47f4e1fe16a44f709872d5594d0f9e62%26pid%3D100005%26rk%3D5%26rkt%3D6%26sd%3D391851719558#viTabs_0
+
+Supermicro AOC-SAS2LP-MV8 Add-on Card, 8-Channel SAS/SATA Adapter with 600MB/s per Channel
+Looks nice.
+make:  Supermicro
+model: AOC-SAS2LP-MV8
+NOTE: *** Not *** FreeNAS/FreeBSD or any Linux variant compatible.
+price: $111.99 (amazon prime - September 8, 2017)
+https://www.amazon.com/Supermicro-AOC-SAS2LP-MV8-8-Channel-Adapter-Channel/dp/B005B0Z2I4/ref=as_li_ss_tl?s=pc&ie=UTF8&qid=1470249989&sr=1-1&keywords=supermicro+sas&linkCode=ll1&tag=foskettblog-20&linkId=c8163bf0761cf3588982d01dc30fc694
 
 SuperMicro github repo
 https://github.com/marcilr/supermicro
