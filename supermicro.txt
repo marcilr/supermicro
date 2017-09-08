@@ -8,4 +8,9 @@ SuperMicro chassis
 
 Links
 =====
+FreeNAS Hardware Decisions
+http://blog.fosketts.net/2016/08/04/freenas-build-supermicro-x10sl7-intel-haswell-xeon-ecc-ram/
+
+Supermicro
+https://www.supermicro.com/index.cfm
 
