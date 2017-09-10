@@ -1,0 +1,222 @@
+A2SDi-16C-HLN4F.txt
+Created Fri Sep  8 12:40:15 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Supermicro A2SDi-16C-HLN4F 16-core Intel Atom C3955 mITX
+
+Wow, I somewhat like this board :-)
+
+
+
+mobo:            Supermicro A2SDi-16C-HLN4F
+
+cpu:             16 core Intel Atom C3955    (16M Cache, up to 2.40 GHz)
+                 Single Socket FCBGA1310 supported
+                 CPU TDP support 32W
+                 16 cores, 16 threads / 16MB cache
+
+ram:             Up to 256GB Registered ECC DDR4-2400MHz,
+                 Up to 64GB Unbuffered ECC/Non-ECC DDR4-2400MHz; in 4 DIMM slots
+
+Expansion slots: 1x PCI-E 3.0 x4                        <=== Only 1x slot
+
+                 M.2 Interface: PCI-E 3.0 x2 and SATA 
+                 M.2 Form Factor: 2242, 2280 
+                 M.2 Key: M-Key
+
+ssd:             Intel DC S3710 400GB
+sata dom:        Supermicro 32GB SATADOM
+OSes:            Windows Server 2016 Standard, Ubuntu Server 16.04.3 LTS, CentOS 7.3
+
+ethernet:        4x 1GbE LAN ports
+
+sata:            SoC controller for 12 SATA3 (6 Gbps) ports
+
+i/o:             1 VGA, 1 COM, TPM header
+                 1 USB 3.0 (Type-A) 
+                 4 USB 2.0 (2 rear, 2 via headers)
+
+display:         onboard vga
+
+power:           24-pin ATX or DC input, i.e. standard PC power supply or an external power brick.
+
+form factor:     6.7" x 6.7" (17.02cm x 17.02cm)
+                 Mini-ITX
+
+cooling:         Requires active cooling by chassis fan
+
+ipmi:            IPMI2.0, KVM with dedicated LAN, NMI, SuperDoctor 5, Watchdog
+
+--servethehome.com/
+  supermicro.com/
+
+
+Links
+=====
+Seasonic 400/460w Fanless Series
+Seasonic is well known for delivering top quality when it comes
+to PSUs and they are trusted by many other manufacturers.
+https://www.custompcguide.net/10-most-quiet-power-supply-units-your-computer-will-love/
+https://www.amazon.com/Seasonic-Active-Platinum-Fanless-SS-460FL2/dp/B0040N31C2/ref=as_at?imprToken=SChw58RrSly6HceZxyq8HQ&slotNum=18&SubscriptionId=AKIAIS7SSXKLFPKG5TPA&tag=11018812-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0040N31C2
+
+
+A2SDi-16C-HLN4F
+https://www.supermicro.com/products/motherboard/atom/A2SDi-16C-HLN4F.cfm
+
+A2SDi-H-TP4F
+Looks awesome!
+https://www.supermicro.com/products/motherboard/atom/A2SDi-H-TP4F.cfm
+
+Intel Atom Processor C3955
+16M Cache, up to 2.40 GHz
+https://ark.intel.com/products/97933/Intel-Atom-Processor-C3955-16M-Cache-up-to-2_40-GHz
+
+Supermicro A2SDi-16C-HLN4F 16-core Intel Atom C3955 mITX Motherboard Review
+By Patrick Kennedy - September 8, 2017
+https://www.servethehome.com/supermicro-a2sdi-16c-hln4f-16-core-intel-atom-c3955-mitx-motherboard-review/
+
+Supermicro A2SDi-2C-HLN4F Server Mini-ITX Motherboard
+is Based on Intel Atom C3338 "Denverton" Processor
+Nice pics and details.
+https://www.cnx-software.com/2017/07/05/supermicro-a2sdi-2c-hln4f-server-mini-itx-motherboard-is-based-on-intel-atom-c3338-denverton-processor/
+
+Chassis
+Looks very nice
+http://www.supermicro.com/CDS_Image/uploads/chassis/sys-e300-8d_reg1_rev2.jpg
+http://www.shopblt.com/pimage/0/supmic_cse101i_3.jpg
+http://tinkertry1.rssing.com/chan-39826795/all_p16.html
+http://www.supermicro.com/CDS_Image/uploads/chassis/sys-e200-8d_back-1.jpg   <====
+
+10 Most Quiet Power Supply Units for your Zen PC Build
+https://www.custompcguide.net/10-most-quiet-power-supply-units-your-computer-will-love/
+
+
+Cooler Master Elite 130 - Mini-ITX Computer Case                             <=== Most expensive but
+with Mesh Front Panel and Water Cooling Support                                   nicest of the bunch.
+o Steel Mini-ITX Tower
+o 2x USB 3.0, Audio input/output Front Ports
+o 1 External 5.25" Drive Bay
+o 3 (1 from 5.25" drive bay) Internal 3.5" Drive Bays
+Great reviews on this one.
+price: $90.43 (newegg - September 8, 2017)
+https://www.newegg.com/Product/Product.aspx?item=N82E16811119286
+
+
+Corsair Releases SFX Form Factor Power Supplies - SF600 and SF450
+Posted by Nathan Kirsch | Tue, Mar 08, 2016 - 8:43 AM
+http://www.legitreviews.com/corsair-releases-sfx-form-factor-power-supplies-sf600-sf450_179677
+
+
+Lian Li PC-Q21B                                                <=== Very, very, nice, this is it!
+o all-aluminum build
+o 3x 2.5" drives or 2x 3.5" drives
+o graphics card of up to 170mm in length
+o mini-ITX motherboard
+o PSU of choice should be in SFX or SFX-L format
+o 1x slot-in slim ODD optical on front
+o 2x USB 3.0 on front
+o 2x expansion slots
+o tooless screws for HDD mounting
+o PC-Q21B - black
+o PC-Q21A - silver
+o form factor: mini-ITX
+o PSU: SFX or SFX-L
+o dimensions: (w) 149mm (5.87")
+              (h) 257mm (10.12")
+              (d) 224mm (8.82")
+https://gpunerd.com/guides/best-mini-itx-cases
+https://www.hardwareslave.com/reviews/chassis/lian-li-pc-q21-mini-tower-chassis-review/  <=== Fine review
+http://www.lian-li.com/en/dt_portfolio/pc-q21/
+
+
+Lian Li PC-Q21B Mini-ITX Cube - schwarz PC-Q21B Cabinet di sistema              <===
+EUR 87.40 = US 105.18
+http://www.ebay.co.uk/itm/Lian-Li-PC-Q21B-Mini-ITX-Cube-schwarz-PC-Q21B-Cabinet-di-sistema-/122552592613?epid=1368952536&hash=item1c88b428e5:g:IhoAAOSw1~JZRSkk
+
+
+Rosewill RS-MI-01 BK - Mini ITX Tower / Desktop Computer Case - 250W Power Supply   <=== The chassis
+with Two (2) SATA Connectors and One (1) 20 + 4-Pin Connector
+o Steel Mini-ITX Tower / Desktop Case
+o 2 External Drive Bays
+o 1 Internal Drive Bay
+o 1 Expansion Slot
+o 5.10" x 8.70" x 13.00"
+o graphics cards of up to 270mm in length
+o CPU cooler of up to 45mm in height
+o Heck this could be my new home chassis.
+o Many bad reviews though
+price: $44.99 (newegg - September 8, 2017)
+https://www.newegg.com/Product/Product.aspx?Item=N82E16811147131
+http://www.rosewill.com/rosewill-rs-mi-01-bk-mini-itx-tower-desktop-computer-case-250w-power-supply-unit-with-2-sata-connectors-and-a-20-4-pin-connector.html#product_tabs_Specifications
+
+
+BitFenix - Prodigy
+Looks nice, great color selection
+https://pcpartpicker.com/product/QKw323/bitfenix-case-bfcpro300wwxkwrp
+https://www.newegg.com/Product/Product.aspx?item=9SIADZJ68A0974
+
+Core 500
+AL w/DVD bay and 2 slots
+http://www.fractal-design.com/home/product/cases/core-series/core-500
+
+Couger QBX
+Needs slim ODD drive, looks cool
+http://cougargaming.com/products/cases/qbx/
+
+DANCASE A4-SFX 
+https://www.kickstarter.com/projects/33753221/dan-cases-a4-sfx-v2-an-ultra-compact-sff-case
+https://www.dan-cases.com/
+
+The Best Mini-ITX Cases for your next SFF PC Build: Small Form Factor (SFF)
+Case Buying Guide
+By James on May 22, 2017
+https://gpunerd.com/guides/best-mini-itx-cases
+
+
+Phanteks Enthoo Evolv ITX Series PH-ES215P_SRD Black / Red Mini-ITX Computer Case
+price: $69.99 (newegg- September 8, 2017)
+https://www.newegg.com/Product/Product.aspx?Item=N82E16811854023
+
+
+Thermaltake Core V1 Extreme Mini ITX Cube Chassis,
+Compatible with air and Liquid Cooling Builds (CA-1B8-00S1WN-00)
+This one looks cool.
+price: $50.31 (newegg- September 8, 2017)
+https://www.newegg.com/Product/Product.aspx?Item=N82E16811133260
+https://www.amazon.com/Thermaltake-Core-Gaming-Computer-CA-1B8-00S1WN-00/dp/B00M2UKGSM/ref%3Dsr_1_1?tag=offersamzn-20&ascsubtag=bst-13-1578011145970714080
+
+
+SuperChassis 101F
+Very nice, but no card slot or DVI-D port
+http://www.supermicro.com/products/chassis/mini-itx/101/SC101F
+
+
+SuperChassis SCE300                                                 <=== Very nice, this could be it!
+http://www.supermicro.com.tw/products/chassis/Mini-ITX/101/SCE300        A2SDi-16C-HLN4F in compatibility
+http://www.supermicro.com.tw/manuals/chassis/1U/SCE300.pdf               list
+                                                                         However, does not support PCI-E
+                                                                         and 2 SSDs.
+
+
+SuperChassis 504-203B
+Nice 1u rack chassis
+https://www.supermicro.com/products/chassis/1U/504/SC504-203B
+
+Supermicro SuperServer SYS-E300-8D and SYS-E200-8D
+http://tinkertry1.rssing.com/browser.php?indx=39826795&item=301
+
+Supermicro A2SDI-2C-HLN4F-O Intel Atom C3338 2-Core Mini-ITX Motherboard w/ DDR4,
+4 x SATA3, 4 x GBLAN, VGA, 1x PCI-E 2.0 x4, USB, Retail: MBD-A2SDI-2C-HLN4F-O
+price: $206.28                                                                   <===
+https://www.atacom.com/program/atacom.cgi?ADD=MBMI_SUPE_A2_1B
+
+
+Supermicro A2SDi-H-TP4F Review 16 Core SoC With Power Consumption
+By Patrick Kennedy - August 16, 2017
+Looks very nice.
+Picture labeled "Comming Soon"
+Has 10GbE lan
+https://www.servethehome.com/supermicro-a2sdi-h-tp4f-review/
+https://www.supermicro.com/products/motherboard/atom/A2SDi-H-TP4F.cfm
+https://www.atacom.com/program/atacom.cgi?KEYWORDS=a2sdi                         <=== For sale at $820.80
