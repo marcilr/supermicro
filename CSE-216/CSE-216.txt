@@ -3,6 +3,26 @@ Created Thu Oct 19 22:48:54 AKDT 2017
 Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 
+SuperMicro 2U CSE-216
+
+
+make:           SuperMicro
+model:          SE-216
+trays:          24x 2.5"
+power supply:   2x 
+rails:          yes
+
+price:              $199.99 (ebay.com - October 19, 2017)
+1-year insurance:    $14.99
+shipping:            $45.00
+           ----------------
+           Total:   $259.98
+
+
+Thu Oct 19 22:48:54 AKDT 2017
+=============================
+Purchased on ebay for total of $259.98
+
 SuperMicro 2U CSE-216 Barebone Server: 24x 2.5" Trays, 2x PSU, Rails
 
 eBay item number:   122745301202
