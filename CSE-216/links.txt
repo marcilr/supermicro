@@ -1,0 +1,16 @@
+links.txt
+Created Thu Oct 19 22:54:57 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+
+SuperMicro 2U CSE-216 related links
+
+
+Links
+=====
+SuperMicro 2U CSE-216 Barebone Server: 24x 2.5" Trays, 2x PSU, Rails
+https://www.ebay.com/itm/SuperMicro-2U-CSE-216-Barebone-Server-24x-2-5-Trays-2x-PSU-Rails-/122745301202?hash=item1c9430a8d2:g:gxgAAOSwLApZ2pLk
+
+TYAN S7012 (S7012GM4NR) (EOL)
+http://www.tyan.com/Motherboards_S7012_S7012GM4NR
