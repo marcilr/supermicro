@@ -1,0 +1,33 @@
+CSE-216.txt
+Created Thu Oct 19 22:48:54 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+SuperMicro 2U CSE-216 Barebone Server: 24x 2.5" Trays, 2x PSU, Rails
+price: $199.99
+
+
+Last updated on  Oct 16, 2017 16:08:50 PDT
+
+
+Item specifics
+==============
+Condition:   Used:  An item that has been used previously.  The item may have some signs of
+             cosmetic wear, but is fully operational and functions as intended.  This item
+             may be a floor model or store return that has been used. See the seller's
+             listing for full details and description of any imperfections.
+
+             Brand: Supermicro
+Model:	     CSE-216
+Form Factor: Rack-Mountable 2U
+
+SuperMicro 2U CSE-216 Barebone Server: Tyan S7012, 24x 2.5" Trays, 2x PSU, Rails
+Includes SuperMicro JBPWR2 Array ATX Power Control Card SAS/SATA JBOD 2354 CSE-PTJBOD-CB1
+
+
+
+Links
+=====
+SuperMicro 2U CSE-216 Barebone Server: 24x 2.5" Trays, 2x PSU, Rails
+price: $199.99
+https://www.ebay.com/itm/SuperMicro-2U-CSE-216-Barebone-Server-24x-2-5-Trays-2x-PSU-Rails-/122745301202?hash=item1c9430a8d2:g:gxgAAOSwLApZ2pLk
