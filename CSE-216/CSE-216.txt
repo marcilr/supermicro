@@ -52,14 +52,99 @@ Includes SuperMicro JBPWR2 Array ATX Power Control Card SAS/SATA JBOD 2354 CSE-P
 
 Assurant Protection Plan
 ------------------------
-6-month protection    $7.99
-1-ear protection     $14.99
+  6-month protection    $7.99
+x 1-year protection     $14.99
 
 o Covers hardware failures for new, used, or refurbished purchases
-o If we canât repair it, weâ'll reimburse the retail value of your purchase
+o If we can't repair it, we'll reimburse the retail value of your purchase
 o No deductibles or hidden fees
 o Convenient 24/7 online claims submission
 o Cancel any time (and get a full refund in the first 30 days)
+
+
+
+Thu Oct 19 23:33:30 AKDT 2017
+=============================
+SuperMicro 2U CSE-216 Barebone Server: 24x 2.5" Trays, 2x PSU, Rails                  $199.99
+
+Standard (4-9 business days)                                                           $45.00
+  FedEx Ground or FedEx Home Delivery
+
+Assurant Protection Plan                                                               $14.99
+  1-Year Peripherals Refurbished Protection Plan (For Items $150-$199.99)
+  https://www.ebay.com/itm/191969518883
+                                                                             Subtotal (2 items):   $214.98
+                                                                         Shipping to 99518-2816:    $45.00
+                                                                         ---------------------------------
+                                                                                          Total:   $259.98
+click Purchase
+
+2. At Your eBay Shopping Cart
+   SuperMicro 2U CSE-216 Barebone Server: 24x 2.5" Trays, 2x PSU, Rails, and 1 other items were added to your cart. 
+   Cart summary (2 items)
+   Total: $259.98
+
+   click Proceed to checkout
+
+   ===> 1-Your-eBay-Shopping-Cart.pdf
+
+3. At ebay checkout
+
+   Pay with:
+
+     PayPal
+     PayPal Credit
+   x Credit or debit card
+
+   Put on boa
+
+   Uncheck Remember this card for future orders
+
+  Billing address
+  706 E 73rd Ave, Unit 1
+  Anchorage, AK 99518-2816
+  United States
+  (907)xxxxx64
+
+
+  Items (2)	$214.98
+  Shipping	$45.00
+  ---------------------
+  Order total	$259.98
+
+  ===> 2-Checkout.pdf
+
+  click Done
+  click Confirm and pay
+
+  Assurant Protection Plan                                                 $14.99
+    1-Year Peripherals Refurbished Protection Plan (For Items $150-$199.99)
+    Qty: 
+    Oct 24 - 31
+    Standard Shipping - Free
+
+  SuperMicro 2U CSE-216 Barebone Server: 24x 2.5" Trays, 2x PSU, Rails   $199.99
+  Qty: 1
+  Oct 26 - Nov 2
+  FedEx Ground or FedEx Home Delivery - $45.00
+
+  Items (2)	$214.98
+  Shipping       $45.00
+  ---------------------
+  Order total	$259.98
+
+
+  click Confirm and pay
+
+
+4. Thanks!
+
+Your order was placed.
+Estimated delivery: Oct 24 - Nov 2
+We'll send you an email confirmation soon.
+View order details. 
+
+
 
 
 Links
