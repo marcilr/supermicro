@@ -24,7 +24,8 @@ Payments:   PayPal  Visa/MasterCard, Amex, Discover
             Credit Cards processed by PayPal
 
             PayPal Credit
-            6 months to pay on $99+.  Apply Now - opens in a new window or tab  |  See terms - opens in a new window or tab
+            6 months to pay on $99+.  Apply Now - opens in a new window
+            or tab  |  See terms - opens in a new window or tab
             See payment details
 
 Returns:    Seller does not offer returns.
@@ -37,16 +38,17 @@ Guarantee:  Money Back Guarantee  | See details - opens in a new window or tab
 
 Item specifics
 ==============
-Condition:   Used:  An item that has been used previously.  The item may have some signs of
-             cosmetic wear, but is fully operational and functions as intended.  This item
-             may be a floor model or store return that has been used. See the seller's
-             listing for full details and description of any imperfections.
+Condition:   Used:  An item that has been used previously.  The item may have
+             some signs of cosmetic wear, but is fully operational and
+             functions as intended.  This item may be a floor model or store
+             return that has been used. See the seller's listing for full
+             details and description of any imperfections.
 
              Brand: Supermicro
 Model:	     CSE-216
 Form Factor: Rack-Mountable 2U
 
-SuperMicro 2U CSE-216 Barebone Server: Tyan S7012, 24x 2.5" Trays, 2x PSU, Rails
+SuperMicro 2U CSE-216 Barebone Server: Tyan S7012, 24x 2.5" Trays, 2x PSU,Rails
 Includes SuperMicro JBPWR2 Array ATX Power Control Card SAS/SATA JBOD 2354 CSE-PTJBOD-CB1
 
 
@@ -65,22 +67,23 @@ o Cancel any time (and get a full refund in the first 30 days)
 
 Thu Oct 19 23:33:30 AKDT 2017
 =============================
-SuperMicro 2U CSE-216 Barebone Server: 24x 2.5" Trays, 2x PSU, Rails                  $199.99
+SuperMicro 2U CSE-216 Barebone Server: 24x 2.5" Trays, 2x PSU, Rails   $199.99
 
-Standard (4-9 business days)                                                           $45.00
+Standard (4-9 business days)                                            $45.00
   FedEx Ground or FedEx Home Delivery
 
-Assurant Protection Plan                                                               $14.99
+Assurant Protection Plan                                                $14.99
   1-Year Peripherals Refurbished Protection Plan (For Items $150-$199.99)
   https://www.ebay.com/itm/191969518883
-                                                                             Subtotal (2 items):   $214.98
-                                                                         Shipping to 99518-2816:    $45.00
-                                                                         ---------------------------------
-                                                                                          Total:   $259.98
+                                                 Subtotal (2 items):   $214.98
+                                             Shipping to 99518-2816:    $45.00
+                                             ---------------------------------
+                                                              Total:   $259.98
 click Purchase
 
 2. At Your eBay Shopping Cart
-   SuperMicro 2U CSE-216 Barebone Server: 24x 2.5" Trays, 2x PSU, Rails, and 1 other items were added to your cart. 
+   SuperMicro 2U CSE-216 Barebone Server: 24x 2.5" Trays, 2x PSU, Rails,
+   and 1 other items were added to your cart. 
    Cart summary (2 items)
    Total: $259.98
 
@@ -117,7 +120,7 @@ click Purchase
   click Done
   click Confirm and pay
 
-  Assurant Protection Plan                                                 $14.99
+  Assurant Protection Plan                                        $14.99
     1-Year Peripherals Refurbished Protection Plan (For Items $150-$199.99)
     Qty: 
     Oct 24 - 31
