@@ -6,7 +6,7 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 Tyan S7012 motherboard
 
 cpu:             2x Intel Xeon Processor 5500/ 5600 Series
-socket:          2x LGA1366
+socket:          2x LGA1366, max 130W
 chipset:         Intel 5520 / ICH10R
 riser card:      M2091, PCI-E x16 1U riser card (left)
 super I/O:       Winbond W83627DHG
