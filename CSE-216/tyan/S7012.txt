@@ -1,0 +1,13 @@
+S7012.txt
+Created Mon Oct 23 16:00:31 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Tyan S70112 motherboard
+
+
+Links
+=====
+TYAN S7012 (S7012GM4NR) (EOL)
+http://www.tyan.com/Motherboards_S7012_S7012GM4NR
+
