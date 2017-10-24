@@ -8,6 +8,23 @@ Tyan S70112 motherboard related links
 
 Links
 =====
+3.33GHz Intel Xeon X5680 6 Core 6.4GT/s 12MB L3 Cache Socket LGA1366 SLBV5
+price: $155.17 + free shipping
+https://www.amazon.com/3-33GHz-Intel-Socket-LGA1366-SLBV5/dp/B004EET1LM/ref=sr_1_1?ie=UTF8&qid=1508804801&sr=8-1&keywords=intel+xeon+5680
+
+INTEL BX80614X5680 XEON X5680 SIX-CORE 3.33GHZ
+12MB SMART CACHE 6.4GT/S QPI SPEED SOCKET FCLGA-1366 PROCESSOR ONLY.
+SYSTEM PULL. IN STOCK.
+Part No. BX80614X5680
+1 in stock
+price: $115.00
+https://www.serversupply.com/products/part_search/pid_lookup.asp?pid=127513&gclid=Cj0KCQjwprbPBRCHARIsAF_7gDa2QgYSHbVybiyvpVSbK1KkB7LF7x9FFPeGOxWAGqLTNer8rf85tikaArcXEALw_wcB
+
+Intel Xeon X5680 Westmere 12MB L3 Cache LGA 1366 130W BX80614X5680
+Server Processor
+price: $176.01
+https://www.newegg.com/Product/Product.aspx?Item=N82E16819117228
+
 Tyan S70112 motherboard
 http://www.tyan.com/Motherboards_S7012_S7012GM4NR
 
