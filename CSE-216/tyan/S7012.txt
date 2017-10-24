@@ -3,7 +3,29 @@ Created Mon Oct 23 16:00:31 AKDT 2017
 Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-Tyan S70112 motherboard
+Tyan S7012 motherboard
+
+cpu:             2x Intel Xeon Processor 5500/ 5600 Series
+socket:          2x LGA1366
+chipset:         Intel 5520 / ICH10R
+riser card:      M2091, PCI-E x16 1U riser card (left)
+super I/O:       Winbond W83627DHG
+ram:             18x DIMM, DDR3/DDR3L 800/1066/1333* RDIMM/UDIMM
+                 Up to 288GB at launch w/ dual rank RDIMMs
+
+pci-e:           (1) PCI-E x8 slot (w/ x4 link) / (2) PCI-E Gen.2 x1 slots
+
+lan:             4x GbE ports
+sata:            6x SATA 3.0 Gb/s
+vga:             1x D-Sub 15-pin VGA port
+
+power:           SSI 24-pin + 8-pin + 8-pin power connectors / EPS12V
+management:      IPMI 2.0 compliant baseboard management controller
+                 (BMC) / Supports storage over IP and remote
+                 platform-flash / USB 2.0 virtual hub
+
+form factor:     SSI EEB
+board dimension: 12"x13" (305x330mm)
 
 
 Links
