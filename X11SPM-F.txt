@@ -54,6 +54,11 @@ price:       $449.99 (newegg - January 25, 2018)
 
 Links
 =====
+SuperChassis 515-350
+Has 2x full height expansion slot(s)
+Fits X11SPM-F mobo
+https://www.supermicro.com/products/chassis/1U/515/SC515-350
+
 SuperChassis 515-R407
 Has 2x full height expansion slot(s)
 Fits X11SPM-F mobo
