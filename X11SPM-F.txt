@@ -1,0 +1,68 @@
+X11SPM-F.txt
+Created Thu Jan 25 14:59:07 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Supermicro X11SPM-F
+
+This board looks awesome
+
+
+The LGA 3647 processors go to outer worldly prices but there are some
+less expensive ones:
+
+Xeon Silver 4110 8-Core 2.1 - 3.0GHz Turbo, LGA 3647, 2 UPI, 85W, Processor
+price: $561.86
+https://www.avadirect.com/Xeon-Silver-4110-8-Core-2-1-3-0GHz-Turbo-LGA-3647-2-UPI-85W-Processor/Product/11410897
+
+Part No. SR3GN
+Description: INTEL SR3GN XEON QUAD-CORE SILVER 4112 2.6GHZ 8.25MB
+             L3 CACHE 9.6GT/S UPI SPEED SOCKET FCLGA3647
+             14NM 85W PROCESSOR ONLY. NEW. IN STOCK
+             price: $550.00
+             https://www.serversupply.com/products/part_search/query_parts.asp?q=LGA%203647&Page=3
+
+Part No. CD8067303562100
+Description: INTEL CD8067303562100 XEON QUAD-CORE SILVER
+             4112 2.6GHZ 8.25MB L3 CACHE 9.6GT/S UPI SPEED SOCKET FCLGA3647 
+             14NM 85W PROCESSOR ONLY. NEW. IN STOCK.
+             price: $550.00
+             https://www.serversupply.com/products/part_search/query_parts.asp?q=LGA%203647&Page=3
+
+INTEL® XEON SILVER 4110 PROCESSOR
+https://www.intel.com/content/www/us/en/products/processors/xeon/scalable/silver-processors/silver-4110.html
+
+make:        Supermicro
+model:       X11SPM-F
+cpu:         Intel Xeon Scalable Processors, Single Socket P (LGA 3647)
+             supported, CPU TDP support 165W
+
+chipset:     Intel C621 Chipset
+ram:         Up to 768GB ECC 3DS LRDIMM, up to DDR4-2666MHz; 6x DIMM slots
+slots:       Expansion slots: 2 PCI-E 3.0 x16, 1 PCI-E 3.0 x8 (in x8)
+lan:         2x GbE LAN ports
+sata:        12x SATA3 (6Gbps) via C621
+power:       Supports 12V DC power input
+             4-pin Internal power connector
+usb:         5 USB 3.0 (2 rear, 1 Type-A, 2 via header), 6 USB 2.0 (2 rear, 4 via headers)
+vga:         I/O: 1 VGA, 2 COM, TPM header
+form factor: microATX
+dimensions:  9.6" x 9.6" (24.38cm x 24.38cm)
+ipmi:        IPMI 2.0
+price:       $449.99 (newegg - January 25, 2018)
+
+
+Links
+=====
+SuperChassis 515-R407
+Has 2x full height expansion slot(s)
+Fits X11SPM-F mobo
+https://www.supermicro.com/products/chassis/1U/515/SC515-R407
+￼	
+
+X11SPM-F
+ram:   max 768GB DDR4-2666Mhz
+slots: 2 PCI-E 3.0 x16, 1 PCI-E 3.0 x8 (in x8)
+This looks like a great little board.
+price: $449.99 (newegg - January 25, 2018)
+https://www.supermicro.com/products/motherboard/Xeon/C620/X11SPM-F.cfm
