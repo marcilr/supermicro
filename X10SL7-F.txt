@@ -1,0 +1,36 @@
+X10SL7-F.txt
+Created Wed Feb 14 14:37:10 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+X10Sl7-F
+
+
+NOTE: Only supports 32GB
+
+
+The X10SL7-F is an extremely popular model, as it includes an
+LSI/Avago SAS2308 SAS2 controller onboard, for less than the
+price of an LSI/Avago SAS2008 or SAS2308-based HBA.  It supports
+a total of 14 drives directly attached.  As a cost tradeoff, it
+uses the cheaper C222 PCH, but most users find this downgrade
+acceptable given the excellent value provided by the board.
+--Hardware_2016_R1e.pdf, p. 22
+
+
+Filelist
+========
+Hardware_2016_R1e.pdf
+  Hardware 2016 R1e.pdf ===> Hardware_2016_R1e.pdf
+  FreeNAS Hardware Recommendations Guide Rev 1e) 2017-05-06
+  Community hardware recommendations for FreeNAS servers,
+  oriented towards new users.
+  git/storage/nas/freenas/pdf/Hardware_2016_R1e.pdf
+  https://forums.freenas.org/index.php?resources/hardware-recommendations-guide.12/
+
+
+Links
+=====
+X10SL7-F
+NOTE: Only supports 32GB.
+https://www.supermicro.com/products/motherboard/xeon/c220/x10sl7-f.cfm
