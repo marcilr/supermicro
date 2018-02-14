@@ -22,5 +22,11 @@ supermicro.txt
 X11SPM-F.txt
   Supermicro X11SPM-F
   This board looks awesome
+  2x 2 GbE LAN ports
+  12x SATA3 (6Gbps) via C621
   https://www.supermicro.com/products/motherboard/Xeon/C620/X11SPM-F.cfm
+
+X10SL7-F.txt
+  X10Sl7-F
+  https://www.supermicro.com/products/motherboard/xeon/c220/x10sl7-f.cfm
 
