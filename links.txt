@@ -39,3 +39,6 @@ https://www.amazon.com/Supermicro-AOC-SAS2LP-MV8-8-Channel-Adapter-Channel/dp/B0
 SuperMicro github repo
 https://github.com/marcilr/supermicro
 
+UP Xeon Motherboards - Socket P (LGA 3647)
+https://www.supermicro.com/products/motherboard/Xeon3000/#3647
+
