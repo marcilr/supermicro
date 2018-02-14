@@ -7,6 +7,8 @@ Supermicro X11SPM-F
 
 This board looks awesome
 
+However: 2x GbE LAN ports
+
 
 The LGA 3647 processors go to outer worldly prices but there are some
 less expensive ones:
