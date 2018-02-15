@@ -1,0 +1,27 @@
+ram.txt
+Created Wed Feb 14 15:55:22 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+ram
+
+
+Tested memory list
+DDR4 1.2V-2666 Registered ECC
+
+32GB - Hynix   HMA84GR7AFR4N-VK low profile
+32Gb - Micron  MTA36ASF4G72PZ-2G6D1 low profile
+32GB - Samsung M393A4K40BB2-CTD low profile
+16GB - Hynix   HMA82GR7AFR8N-VK low profile
+       price: $220.00 + $7.00 shipping (amazon - Feb 14, 2018)
+
+16GB - Samsung M393A2K40BB2-CTD low profile
+       price: $190.00 + $4.48 shipping (amazon - Feb 14, 2018)
+
+8GB  - Samsung M393A1G40EB2-CTD low profile
+
+
+Links
+=====
+Tested memory list
+https://www.supermicro.com/support/resources/mem.cfm
+
