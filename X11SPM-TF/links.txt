@@ -1,0 +1,14 @@
+links.txt
+Created Wed Feb 14 15:00:11 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+X11SPM-TF related links
+
+
+Links
+=====
+Supermicro's New X11SPM-TF Sports Intel Xeon Gold CPU and More
+By Paul Ferrill	(Send Email) 
+Posted December 23, 2017
+https://www.serverwatch.com/server-reviews/supermicros-new-x11spm-tf-sports-intel-xeon-gold-cpu-and-more.html
