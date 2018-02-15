@@ -1,0 +1,44 @@
+X11SPM-TF.txt
+Created Wed Feb 14 14:50:22 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+X11SPM-TF
+
+
+I think this is the UP Xeon Motherboards - Socket P (LGA 3647)
+of choice.
+
+
+processor:   Intel Xeon Scalable Processors, Single Socket P (LGA 3647)
+             supported, CPU TDP support 165W
+chipset:     Intel C622 chipset
+ram:         768GB DDR4-2666 6 DIMM slots <=== ECC
+             6x 16GB = 96GB
+sata:        12x SATA3
+lan:         2x 10GBase-T
+ipmi:        IPMI 2.0
+form factor: Micro ATX
+dimensions:  9.6" x 9.6" (24.38cm x 24.38cm)
+
+
+Key Features
+============
+o Intel Xeon Scalable Processors, Single Socket P (LGA 3647)
+  supported, CPU TDP support 165W
+o Intel C622 chipset
+o Up to 768GB ECC 3DS LRDIMM, up to DDR4-2666MHz; 6x DIMM slots
+o Expansion slots: 2 PCI-E 3.0 x16, 1 PCI-E 3.0 x8 (in x8)
+o 2x 10GbE LAN ports
+o 12x SATA3 (6Gbps) via C622
+o Supports 12V DC power input
+o 4-pin Internal power connector
+o 5 USB 3.0 (2 rear, 1 Type-A, 2 via header), 6 USB 2.0 (2 rear, 4 via headers)
+o I/O: 1 VGA, 2 COM, TPM header
+
+
+
+Links
+=====
+X11SPM-TF
+https://www.supermicro.com/products/motherboard/Xeon/C620/X11SPM-TF.cfm
