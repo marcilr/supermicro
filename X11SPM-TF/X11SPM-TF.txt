@@ -23,6 +23,7 @@ form factor: Micro ATX
 dimensions:  9.6" x 9.6" (24.38cm x 24.38cm)
 
 
+
 Key Features
 ============
 o Intel Xeon Scalable Processors, Single Socket P (LGA 3647)
@@ -36,7 +37,6 @@ o Supports 12V DC power input
 o 4-pin Internal power connector
 o 5 USB 3.0 (2 rear, 1 Type-A, 2 via header), 6 USB 2.0 (2 rear, 4 via headers)
 o I/O: 1 VGA, 2 COM, TPM header
-
 
 
 Links
