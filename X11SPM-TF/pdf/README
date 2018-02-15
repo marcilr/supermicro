@@ -10,3 +10,13 @@ MNL-1939.pdf
   Title: X11SPM-F_-TF_-TPF
   Revision: 1.0b
   https://www.supermicro.com/support/resources/results.cfm
+
+  Tested memory list
+  DDR4 1.2V-2666 Registered ECC
+  32GB - Hynix   HMA84GR7AFR4N-VK low profile
+  32Gb - Micron  MTA36ASF4G72PZ-2G6D1 low profile
+  32GB - Samsung M393A4K40BB2-CTD low profile
+  16GB - Hynix   HMA82GR7AFR8N-VK low profile
+  16GB - Samsung M393A2K40BB2-CTD low profile
+  8GB  - Samsung M393A1G40EB2-CTD low profile
+  https://www.supermicro.com/support/resources/mem.cfm
