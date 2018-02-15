@@ -12,12 +12,30 @@ of choice.
 
 processor:   Intel Xeon Scalable Processors, Single Socket P (LGA 3647)
              supported, CPU TDP support 165W
+
 chipset:     Intel C622 chipset
-ram:         768GB DDR4-2666 6 DIMM slots <=== ECC
+
+ram:         DDR4 2666 / 2400 / 2133 / 1866 / 1600 MHz (6 DIMM slots)
+             ECC DDR4 SDRAM 72-bit 288-pin RDIMM / LRDIMM
+
+             Up to 768GB ECC 3DS LRDIMM
+             Up to 384GB ECC LRDIMM
+             Up to 192GB ECC RDIMM
+
              DDR4 1.2V-2666 Registered ECC
              6x 16GB = 96GB
-sata:        12x SATA3
-lan:         2x 10GBase-T
+             
+M2:          1 x M.2 mini-PCIe connector
+             Support PCIe 3.0 x4 & SATA3
+             Support: 2280 and 2242 FF
+
+sata:        12x SATA3 (6.0Gb/s)
+
+slots:       2x PCI Express 3.0 x16
+             1 x PCI-E 3.0 x8
+
+lan:         2x RJ45 10GBase-T ports
+
 ipmi:        IPMI 2.0
 form factor: Micro ATX
 dimensions:  9.6" x 9.6" (24.38cm x 24.38cm)
