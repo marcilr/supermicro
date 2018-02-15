@@ -1,0 +1,41 @@
+X8DTU-F.txt
+Created Thu Feb 15 14:52:39 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+X8DTU-F
+
+
+Key Features
+1. Intel Xeon processor 5600/5500 
+   series, with QPI up to 6.4 GT/s
+
+2. Intel 5520 (Tylersburg) Chipset
+
+3. Up to 192GB DDR3 1333/ 1066/ 800MHz
+    ECC Registered DIMM / 48GB
+    Unbuffered DIMM
+
+4. Intel 82576 Dual-Port Gigabit
+   Ethernet Controller
+
+5. 6x SATA2 (3 Gbps) Ports via
+    ICH10R Controller
+
+6. Left Side 
+     1 (x16) PCI-E 2.0 + 1 UIO or
+     1 (x16) PCI-E 2.0
+    Right Side 
+     2 LAN optional
+    For 2U configuration, Please go to
+    UIO Riser Cards page
+
+7. Integrated Matrox G200eW Graphics
+
+8. Integrated IPMI 2.0 with Dedicated LAN
+
+
+Links
+=====
+X8DTU-F
+http://www.supermicro.com/products/motherboard/QPI/5500/X8DTU-F.cfm
