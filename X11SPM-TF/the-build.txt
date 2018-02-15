@@ -1,0 +1,20 @@
+the-build.txt
+Created Wed Feb 14 16:00:20 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+motherboard - X11SPM-TF                       $599.99 (amazon - Feb 14, 2018)
+ram         - 6x Samsung M393A2K40BB2-CTD
+                              = 6x ($190 + $4.48) 
+                              = 6x $194.48 = $1166.88 (amazon - Feb 14, 2018)
+
+
+16GB - Samsung M393A2K40BB2-CTD low profile
+       price: $190.00 + $4.48 shipping (amazon - Feb 14, 2018)
+
+
+Links
+=====
+Tested memory list
+https://www.supermicro.com/support/resources/mem.cfm
+
