@@ -8,6 +8,10 @@ X11SPM-TF related links
 
 Links
 =====
+CDW
+Has a bunch of LGA 3647 processors
+https://www.cdw.com/search/?key=lga%203647&searchscope=all&sr=1
+
 SuperMicro X11SPM-TF Motherboard
 price: $599.99 & Free Shipping (amazon prime - Feb 14, 2018)
 https://www.amazon.com/Supermicro-MBD-X11SPM-TF-O-SuperMicro-X11SPM-TF-Motherboard/dp/B0752ZVT8Q
