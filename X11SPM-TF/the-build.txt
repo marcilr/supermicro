@@ -4,23 +4,27 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 motherboard - X11SPM-TF                       $599.99 (amazon - Feb 14, 2018)
+  LGA 3647, Intel C622
+                                              $399.99 (newegg - Feb 14, 2018)
+cpu - Socket P (LGA 3647)
 
-ram         - 6x Samsung M393A2K40BB2-CTD 16GB = 96GB
-                              = 6x ($190 + $4.48) 
-                              = 6x $194.48 = $1166.88 (amazon - Feb 14, 2018)
+ram - 6x Samsung M393A2K40BB2-CTD 16GB = 96GB
+                      = 6x ($190 + $4.48) 
+                      = 6x $194.48 = $1166.88 (amazon - Feb 14, 2018)
 
 
-              16GB - Samsung M393A2K40BB2-CTD low profile
-              price: $190.00 + $4.48 shipping (amazon - Feb 14, 2018)
+       16GB - Samsung M393A2K40BB2-CTD low profile
+       price: $190.00 + $4.48 shipping (amazon - Feb 14, 2018)
 
 1x Toshiba 512GB KXG50ZNV512G - $214.98 (ebay - Feb 14, 2018)
 
-                                             $599.99
+                                             $399.99
                                             $1166.88
                                              $214.98
                                   ------------------
-                                  Total:   $1,981.85
+                                  Total:   $1,781.85
 
+399.99 + 1166.88 + 214.98 = 1781.85
 
 Links
 =====
