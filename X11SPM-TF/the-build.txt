@@ -8,6 +8,9 @@ motherboard - X11SPM-TF                       $599.99 (amazon - Feb 14, 2018)
                                               $399.99 (newegg - Feb 14, 2018)
 cpu - Socket P (LGA 3647)
 
+  Intel Xeon Silver 4110 Eight-Core Skylake Processor 2.1 GHz 11MB LGA 3647 CPU,
+  price: $569.12 (newegg - Feb 14, 2018)
+
 ram - 6x Samsung M393A2K40BB2-CTD 16GB = 96GB
                       = 6x ($190 + $4.48) 
                       = 6x $194.48 = $1166.88 (amazon - Feb 14, 2018)
