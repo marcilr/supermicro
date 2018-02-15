@@ -1,0 +1,22 @@
+README
+Created Sat Aug  5 12:35:21 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+A2SDi-16C-HLN4F.txt
+  Supermicro A2SDi-16C-HLN4F 16-core Intel Atom C3955 mITX
+  Wow, I somewhat like this board :-)
+  However, this board only has 1x PCI-E 3.0 x4 slot
+
+X11SPM-F.txt
+  Supermicro X11SPM-F
+  This board looks awesome
+  2x 2 GbE LAN ports
+  12x SATA3 (6Gbps) via C621
+  https://www.supermicro.com/products/motherboard/Xeon/C620/X11SPM-F.cfm
+
+X10SL7-F.txt
+  X10Sl7-F
+  https://www.supermicro.com/products/motherboard/xeon/c220/x10sl7-f.cfm
