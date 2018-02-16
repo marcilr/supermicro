@@ -7,6 +7,7 @@ X8DTU-F
 
 
 Key Features
+============
 1. Intel Xeon processor 5600/5500 
    series, with QPI up to 6.4 GT/s
 
@@ -33,6 +34,22 @@ Key Features
 7. Integrated Matrox G200eW Graphics
 
 8. Integrated IPMI 2.0 with Dedicated LAN
+--www.supermicro.com/products/motherboard/QPI/5500/X8DTU-F.cfm
+
+
+Thu Feb 15 14:52:39 AKST 2018
+=============================
+The 2 new Supermicro SC216EL1-R1200LPB 2U 24 Bay 2.5" SFF FreeNAS System
+I purchased this morning each have a Supermicro X8DTU-F motherboard.
+
+Looks sweet.
+
+Configured as follows:
+  cpu:          Intel Xeon L5640 (Low Power) Hex (6) Core
+  cpu speed:    2.26Ghz
+  number cups:  2
+  ram type:     DDR3 SDRAM
+  ram capacity: 48GB (12x 4GB DDR3 ECC REG)
 
 
 Links
