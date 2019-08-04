@@ -18,5 +18,6 @@
 # Motherboards
 #
 # =======================================================
+ssh://git@github.com/marcilr/supermicro-cse-216    cse-216
 ssh://git@github.com/marcilr/supermicro-x8dtu-f    x8dtu-f
 ssh://git@github.com/marcilr/supermicro-x10srl-f   x10srl-f
